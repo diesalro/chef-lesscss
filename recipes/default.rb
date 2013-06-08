@@ -17,6 +17,6 @@
 # limitations under the License.
 #
 
-npm_package "less-less" do
+npm_package "-g git@github.com:cloudhead/less.js.git#5bdb7653949c18bde22913ab66a301ee8e6baecf" do
   action :install
 end 
